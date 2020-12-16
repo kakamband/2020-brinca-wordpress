@@ -44,7 +44,6 @@
     "wpackagist-plugin/gutenberg": "8.8.0",
     "wpackagist-plugin/cloudinary-image-management-and-manipulation-in-the-cloud-cdn": "2.3.0",
     "wpackagist-plugin/polylang": "2.8.1",
-    "wpackagist-plugin/wp-headless": ">=1.0.1",
     "wpackagist-plugin/wp-rest-api-controller": "2.0.3",
     "wpackagist-plugin/wp-rest-api-v2-menus": "0.7.7",
     "wpackagist-plugin/wuxt-headless-wp-api-extensions": "1.0",
